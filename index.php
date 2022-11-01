@@ -19,9 +19,8 @@
 
   </header>
   <main>
-    
-    <?php require_once("./vistas/form_beneficiario.php")?>
-
+    <a class ="btn btn-primary" href="./vistas/form_titular.php">titular</a>
+    <a class ="btn btn-primary" href="./vistas/form_beneficiario.php">beneficiario</a> 
   </main>
   <footer>
  

@@ -27,7 +27,7 @@
               <img src="../recursos/img/logo_1.png" class="img-fluid pt-2" style="width: 120px;">
             </div>
             <div class="col-10" style="padding-right: 160px;">
-              <h2 class="style-fs text-center text-white" style="margin-top: 10px;">Formato Inscripción de Beneficiario
+              <h2 class="style-fs text-center text-white" style="margin-top: 10px;">Formato Inscripción de Titular
               </h2>
             </div>
           </div>
@@ -35,15 +35,6 @@
         <div class="card-body">
           <div class="container mt-3 px-4">
             <form class="row g-3" action="" method="POST">
-              <!-- Input Numero de Documento del Titular -->
-              <div class="col-12">
-                <label for="" class="form-label fw-semibold">Numero de Documento del Titular del Servicio</label>
-                <input type="text" class="form-control" name="" id="" aria-describedby="emailHelpId"
-                  placeholder="Digite un numero de identifiacion">
-                <small id="emailHelpId" class="form-text text-muted">Si no ha creado un titular, no complete este
-                  formulario</small>
-              </div>
-
               <!-- Input Tipo de Documento  -->
               <div class="col-12">
                 <label for="tipo_doc" class="form-label fw-semibold">Tipo de Documento</label>
@@ -130,7 +121,7 @@
     <div class="container-md" style="margin-top: 200px;">
       <div class="card shadow-lg  m-4 rounded bg-img-color">
         <div class="card-body m-5 text-center">
-          <h1 class="h1 m-5 text-white">Registrar Titular</h1>
+          <h1 class="h1 m-5 text-white">Registrar Beneficiario</h1>
           <button href="" class="btn btn-primary bg-transparent">Añadir Beneficiarios</button>
         </div>
       </div>

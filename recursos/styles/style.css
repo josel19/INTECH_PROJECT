@@ -3,6 +3,11 @@
     background: linear-gradient(133deg, rgba(118,193,209,1) 0%, rgba(39,114,177,1) 41%, rgba(38,99,136,1) 100%);
     border: none;
 }
+.hov_btn:hover{
+    color: rgb(255, 253, 253) !important;
+    background: rgb(118,193,209) !important;
+    background: linear-gradient(330deg, rgba(118,193,209,1) 0%, rgba(39,114,177,1) 41%, rgba(38,99,136,1) 100%) !important;
+}
 
 .center-text{
     justify-content: center;
@@ -18,5 +23,23 @@
 .style-fs{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
 }
+
+.bg-img-color{
+    background-image:linear-gradient(330deg, rgba(118,193,209,0.7) 0%, rgba(39,114,177,0.7) 41%, rgba(38,99,136,0.7) 100%), url(https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80);
+    position: relative;
+    background-size: cover ;
+}
+
+.bg-transparent{
+    background: transparent;
+    border: 1px solid #ffff;;
+}
+
+.bg-transparent:hover{
+    border: 1px solid rgb(50, 136, 172) !important;
+}
+
+
+
 
 
