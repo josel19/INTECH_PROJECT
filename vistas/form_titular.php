@@ -122,7 +122,7 @@
       <div class="card shadow-lg  m-4 rounded bg-img-color">
         <div class="card-body m-5 text-center">
           <h1 class="h1 m-5 text-white">Registrar Beneficiario</h1>
-          <button href="" class="btn btn-primary bg-transparent">Añadir Beneficiarios</button>
+          <button href="form_beneficiario.php"class="btn btn-primary bg-transparent">Añadir Beneficiarios</button>
         </div>
       </div>
     </div>
